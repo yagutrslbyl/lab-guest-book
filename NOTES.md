@@ -44,4 +44,4 @@ I rebuilt the `fetch` call by explicitly configuring it as a `POST` method. I ad
 
 ---
 
-**Live URL (Vercel):** 
+**Live URL (Vercel):** https://lab-guest-book-lake.vercel.app/
